@@ -1,0 +1,10 @@
+Usuario;Jonas Herpich;25;4321;IFRS
+Livro;O Apanhador no Campo de Centeio;J. D. Salinger;Todavia;1234
+Livro;É isto um homem?;Primo Levii;JPA LTDA;1235
+Livro;O Mundo de Sofia;Jostein Gaarder;Schwarcz S.A.;1238
+Livro;Alice no pais das Maravilhas;asdasd;asdasd;1298
+Data da retirada;01/01/2022
+Usuario;Cristiano Ledur;24;1234;IFRS
+Livro;O Apanhador no Campo de Centeio;J. D. Salinger;Todavia;1234
+Livro;Alice no pais das Maravilhas;asdasd;asdasd;1298
+Data da retirada;01/01/2022
